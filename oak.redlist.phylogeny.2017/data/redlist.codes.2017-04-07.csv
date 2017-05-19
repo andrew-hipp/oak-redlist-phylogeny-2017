@@ -1,0 +1,7 @@
+code,category,colors,grayscale,colors2
+CR,Critically Endangered,red,black,red
+EN,Endangered,orange,gray30,black
+VU,Vulnerable,yellow,gray50,gray30
+NT,Near Threatened,gray80,gray70,gray50
+LC,Least Concern,gray90,gray90,gray70
+DD,Data Deficient,white,white,gray90
